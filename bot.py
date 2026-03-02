@@ -185,7 +185,7 @@ async def handle_callback(update: Update, ctx: ContextTypes.DEFAULT_TYPE):
 # ══════════════════════════════════════════════
 
 def main():
-    if not BOT_TOKEN or BOT_TOKEN == "YOUR_BOT_TOKEN_HERE":
+    if not BOT_TOKEN or BOT_TOKEN == "8611968517:AAEg9YzYdc12SiBL_D498bD7vcgyRUkt3sI":
         logger.error("❌ BOT_TOKEN topilmadi! config.py da o'rnating.")
         return
 
