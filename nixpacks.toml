@@ -1,5 +1,0 @@
-[phases.install]
-cmds = ["pip install python-telegram-bot==21.3"]
-
-[start]
-cmd = "python bot.py"
