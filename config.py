@@ -4,7 +4,7 @@ import os
 # BIZNES BOT — Konfiguratsiya
 # ══════════════════════════════════════════════
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8611968517:AAEg9YzYdc12SiBL_D498bD7vcgyRUkt3sI")
 DB_PATH   = os.getenv("DB_PATH", "biznes.db")
 
 # Do'kon sozlamalari (admin /settings orqali o'zgartira oladi)
